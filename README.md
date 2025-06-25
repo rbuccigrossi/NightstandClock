@@ -27,8 +27,9 @@ The **Screen Wake Lock API** is crucial for keeping the screen on. This feature 
 *   Chrome (Desktop & Android)
 *   Edge (Desktop)
 *   Opera (Desktop & Android)
+*   Safari (iOS 18 and newer)
 
-*Compatibility may vary on iOS (Safari) due to Apple's implementation of the Screen Wake Lock API. It's generally more restrictive.*
+*The Screen Wake Lock API has been confirmed to work well on iOS 18 Safari. Earlier iOS versions may have more limited support.*
 
 ## Files
 
